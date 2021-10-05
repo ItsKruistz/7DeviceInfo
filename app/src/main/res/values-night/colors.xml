@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="mainColor">#1A73E9</color>
+    <color name="backgroundColor">#0E121A</color>
+    <color name="titleColor">#FFFFFF</color>
+    <color name="subtitleColor">#BDBDBD</color>
+    <color name="iconColor">#FFFFFF</color>
+    <color name="statusbarColor">#171C26</color>
+    <color name="toolbarColor">#171C26</color>
+</resources>
