@@ -1,1 +1,2 @@
-interesting readme
+# 7 Device Info
+
