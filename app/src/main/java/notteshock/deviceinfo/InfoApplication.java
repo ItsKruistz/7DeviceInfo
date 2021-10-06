@@ -1,5 +1,5 @@
 /*
- * This is the source code of 7 Device Info.
+ * This is the source code of 7Device Info.
  * It is licensed under the The GNU General Public License v3.0.
  * You should have received a copy of the license in this repo (see LICENSE).
  *
@@ -33,6 +33,7 @@ public class InfoApplication extends Application {
     public void onCreate() {
         this.uncaughtExceptionHandler = Thread.getDefaultUncaughtExceptionHandler();
 
+        // Test Comment
         Thread.setDefaultUncaughtExceptionHandler((thread, ex) -> {
             Intent intent = new Intent(getApplicationContext(), DebugActivity.class);
             intent.setFlags(Intent.FLAG_ACTIVITY_CLEAR_TASK);
