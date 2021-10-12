@@ -9,7 +9,6 @@
 package notteshock.deviceinfo;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
 
 public class DebugActivity extends AppCompatActivity {

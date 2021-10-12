@@ -492,5 +492,6 @@ public class  InfoUtilities {
         if (resourceId > 0) {
             InfoUtilities.statusBarHeight = context.getResources().getDimensionPixelSize(resourceId);
         }
+        // Good job lmao (copy telegram )
     }
 }
