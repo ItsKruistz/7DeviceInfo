@@ -4,8 +4,10 @@
  * You should have received a copy of the license in this repo (see LICENSE).
  *
  * Copyright someone work on this am bored, 2021.
+ *
+ * Copyright, Abhinandan, 2021. 
+ * I contributed to this thing tho. 
  */
-
 package notteshock.deviceinfo.activities;
 
 import android.app.Fragment;
