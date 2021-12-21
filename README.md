@@ -4,4 +4,6 @@
 
 ## Development
 
-Its currently under-development. Contributions are welcome.
+~~It's currently under-development. Contributions are welcome.~~
+ **THIS PROJECT HAS BEEN DISCONTINUED BECAUSE OF SOME REASON. SORRY FOR THAT**
+ 
