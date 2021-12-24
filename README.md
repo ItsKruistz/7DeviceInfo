@@ -6,4 +6,4 @@
 
 ~~It's currently under-development. Contributions are welcome.~~
  **THIS PROJECT HAS BEEN DISCONTINUED BECAUSE OF SOME REASON. SORRY FOR THAT**
- 
+ https://cdn.discordapp.com/emojis/886501848205393971.gif?size=48
